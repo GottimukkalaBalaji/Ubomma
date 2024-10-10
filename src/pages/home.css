@@ -1,0 +1,99 @@
+nav{
+    justify-content: center;
+    padding: 20px;
+    background-color: rgb(20, 20, 20);
+}
+.logo{
+    color: rgb(90, 163, 54);
+    font-size: 35px;
+    font-weight: bold;
+    padding-right: 47%;
+    padding-left: 6%;
+}
+a{
+    padding-right: 3%;
+    color: white;
+}
+input{
+    color: none;
+    padding: 10px;
+    padding-right: 30px;
+    border-radius: 20px;
+    border: none;
+}
+h1{
+    color: white;
+    font-size: 45px;
+    font-weight: 400;
+    padding-left: 30%;
+    padding-top: 2%;
+}
+h5{
+    text-align: center;
+    color: white;
+    opacity: 0.7;
+}
+.MoviesImg{
+    display: flex;
+    justify-content: space-around;
+    margin-left: 7%;
+    padding-top: 3%;
+    margin-right: 60%;
+
+}
+#searchButton{
+    background-color: rgb(90, 166, 58);
+    position: absolute;
+    width: 50px;
+    top: 35px;
+    right: 70px;
+    height: 38px;
+    border: none;
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
+.anotherSearch{
+    color: white;
+    text-align: center;
+    background-color: #151515;
+    height: 250px;
+}
+.anotherSearch h2{
+    padding-top: 40px;
+}
+.anotherSearch h3{
+    color: white;
+    text-align: center;
+    font-weight:100;
+}
+.anotherInput{
+    padding-right: 400px;
+}
+#anotherButton{
+    background-color: rgb(90, 166, 58);
+    position: relative;
+    top:13px;
+    right: 47px;
+    height: 38px;
+    width: 50px;
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
+.addOnTitle{
+    margin-left: -380px;
+    font-size: 30px;
+    margin-top: -30px;
+}
+.footer{
+    margin-top: 20px;
+}
+.a11{
+    padding-left: 35px;
+}
+.footer a{
+    padding-right: 30px;
+}
+.footerp{
+    margin-left: 1400px;
+    width: 150px;
+}

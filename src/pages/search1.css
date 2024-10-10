@@ -1,0 +1,15 @@
+.moviename1{
+    color: white;
+    margin-left: 3%;
+    margin-right: -3%;
+}
+.movieLink2{
+    text-decoration: none;
+    margin-left: 10px;
+    color: rgb(106, 179, 50);
+}
+.moviePara3{
+    margin-left: 10px;
+    margin-top: 10px;
+    color: rgba(243, 237, 237, 0.146);
+}

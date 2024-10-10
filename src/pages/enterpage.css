@@ -1,0 +1,41 @@
+.enterBg{
+    width: 600px;
+    height: 330px;
+    box-shadow: 5px 10px   rgb(13, 13, 13);
+    justify-content: center;
+    text-align: center;
+    background-color: rgb(20, 20, 20);
+    margin-top: 11%;
+    margin-left: 31%;
+    padding-top: 1%;
+}
+#titleUB{
+    color: rgb(106, 191, 69);
+    padding-top: 13px;
+    position: relative;
+    right: 100px;
+}
+#telugu{
+    font-size: 16px;
+    color: white;
+    font-weight: 100;
+}
+h2{
+    color: rgb(204, 204, 204);
+    font-size: smaller;
+    font-weight: 100;
+    /* padding-top: 10px; */    
+}
+.enterMainButton{
+    background-color: rgb(106, 191, 69);
+    border: none;
+    border-radius: 2px;
+    width: 130px;
+    height: 40px;
+    color: white;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+a{
+    text-decoration: none;
+}

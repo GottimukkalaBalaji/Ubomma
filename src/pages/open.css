@@ -1,0 +1,71 @@
+nav{
+    justify-content: center;
+    padding: 20px;
+    background-color: rgb(20, 20, 20);
+}
+.logo{
+    color: rgb(90, 163, 54);
+    font-size: 35px;
+    font-weight: bold;
+    padding-right: 47%;
+    padding-left: 6%;
+}
+a{
+    padding-right: 3%;
+    color: white;
+}
+input{
+    color: none;
+    padding: 10px;
+    padding-right: 40px;
+    border-radius: 20px;
+    border: none;
+}
+.OpenImage{
+    margin-top: 20px;
+    margin-left: 100px;
+    height: 300px;
+    background-color: lightgray;
+    width: 220px;
+}
+.openData{
+    display: flex;
+}
+.moviename{
+    margin-left: -63px;
+    font-weight: bold;
+}
+.MovieData{
+    color: white;
+    background: none;
+    padding-left: 33px;
+}
+.MovieData1{
+    padding-top: 40px;
+    color: white;
+    background: none;
+    padding-left: 33px;
+}
+#trailerButton{
+    padding: 15px;
+    /* color: white; */
+    margin-left: 33px;
+}
+#downButton{
+    padding: 15px;
+    margin-left: 33px;
+    background-color: rgb(90, 166, 58);
+    color: white;
+}
+video{
+    width: 80%;
+    margin-top: 30px;
+    margin-left: 10%;
+}
+#MovieDown{
+    color: white;
+    padding-left: 60px;
+    background: none;
+    padding-top: 30px;
+    width: 100%;
+}
